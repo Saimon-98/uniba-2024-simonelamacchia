@@ -1,0 +1,25 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .task-list {
+    margin-bottom: 20px;
+  }
+  
+  .add-task input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .add-task button {
+    padding: 8px 20px;
+    background-color: #b6d332;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .add-task button:hover {
+    background-color: #0056b3;
+  }
